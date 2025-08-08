@@ -1,1 +1,43 @@
-/* placeholder */
+body {
+  background-color: #121212;
+  color: #fff;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  padding: 1rem;
+}
+
+.game-card {
+  background: #1e1e1e;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.game-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.buttons button {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-around;
+  background: #222;
+  padding: 0.5rem;
+}
+
+.profile-page {
+  padding: 1rem;
+}
